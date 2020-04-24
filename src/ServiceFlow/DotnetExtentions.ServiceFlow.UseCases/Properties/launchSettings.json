@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "DotnetExtentions.ServiceFlow.UseCases": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
